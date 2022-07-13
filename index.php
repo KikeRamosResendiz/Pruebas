@@ -14,6 +14,7 @@
 <body>
 <input type="file" id="imagen" name="imagen" accept="image/*">
     <br><br>
+    <br>
     <!-- La imagen que vamos a usar para previsualizar lo que el usuario selecciona -->
     <img id="imagenPrevisualizacion">
   <script type="text/javascript">
