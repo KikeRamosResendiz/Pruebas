@@ -17,7 +17,6 @@
     <p></p>
     <img src="" alt="">
     <p></p>
-    <p></p>
     <!-- La imagen que vamos a usar para previsualizar lo que el usuario selecciona -->
     <img id="imagenPrevisualizacion">
   <script type="text/javascript">
